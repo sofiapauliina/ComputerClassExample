@@ -1,4 +1,4 @@
-package com.company;
+package com;
 
 public class Computer {
     private Case theCase;
