@@ -1,4 +1,4 @@
-package com.company;
+package com;
 
 import sun.nio.cs.ext.PCK;
 
